@@ -1,0 +1,61 @@
+# ========================
+# GLOBAL IGNORE
+# ========================
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+
+# ========================
+# PYTHON / FASTAPI BACKEND
+# ========================
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+*.env
+
+# Testing & coverage
+.mypy_cache/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Static/media (nếu có generate)
+static/
+media/
+
+# ========================
+# REACT FRONTEND
+# ========================
+
+# Node modules
+frontend/node_modules/
+
+# Build output
+frontend/build/
+frontend/dist/
+frontend/.next/
+frontend/.cache/
+
+# Env file
+frontend/.env
+
+# ========================
+# IDEs / TEXT EDITORS
+# ========================
+.vscode/
+.idea/
+*.iml
