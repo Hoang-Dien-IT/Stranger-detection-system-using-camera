@@ -397,12 +397,3 @@ Dự án này được phân phối dưới giấy phép MIT. Xem file LICENSE �
 - [React](https://reactjs.org/) - Frontend Framework
 - [Tailwind CSS](https://tailwindcss.com/) - UI Styling
 
-## 📞 Hỗ Trợ
-
-- **Email**: support@safeface.ai
-- **Documentation**: Tài liệu chi tiết
-- **Issues**: [GitHub Issues](https://github.com/your-username/SafeFace/issues)
-
----
-
-**SafeFace** © 2025 - Bảo vệ tổ chức của bạn với công nghệ AI thông minh! 🚀
